@@ -1,0 +1,14 @@
+..\..\output\wifi_function.o: ..\..\User\wifi\wifi_function.c
+..\..\output\wifi_function.o: ..\..\User\wifi\wifi_function.h
+..\..\output\wifi_function.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\wifi_function.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\wifi_function.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\wifi_function.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\wifi_function.o: ..\..\User\stm32f10x_conf.h
+..\..\output\wifi_function.o: ..\..\Libraries\FWlib\inc\stm32f10x_fsmc.h
+..\..\output\wifi_function.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\wifi_function.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\wifi_function.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\wifi_function.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\wifi_function.o: ..\..\User\wifi\wifi_config.h
+..\..\output\wifi_function.o: E:\Keil\ARM\ARMCC\Bin\..\include\stdbool.h
